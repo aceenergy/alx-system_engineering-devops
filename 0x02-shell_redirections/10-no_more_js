@@ -1,0 +1,2 @@
+#!/bin/bash
+fomd . -type f -name "*.js" -delete
